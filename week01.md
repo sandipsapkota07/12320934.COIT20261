@@ -74,26 +74,21 @@ ip a
 
 ## Screenshot 1 – GNS3 Network Topology
 
-> *(Insert screenshot here later)*
-
-Example:
-
 ```
 images/week01-network.png
 ```
 ## Screenshot 2 – Linux Console Showing IP Address
 
-> *(Insert screenshot here later)*
-
-Example:
 
 ```
 images/week01-ipaddress.png
 ```
 
 ## Screenshot 3 – GNS3 Project Overview (Optional)
+```
+images/week01-ipaddress.png
+```
 
-> *(Insert screenshot here later)*
 
 # Testing Results
 
