@@ -1,7 +1,7 @@
 # COIT20261 Portfolio – Week 01
 
 **Student Name:** Sandip Sapkota  
-**Student ID:** YOUR_STUDENT_ID  
+**Student ID:** 12320934
 **Unit:** COIT20261  
 **Week:** 01  
 **Date:** 19 July 2026
@@ -17,7 +17,6 @@ The objective of this week's tutorial was to become familiar with the unit requi
 ---
 
 # Section A
-
 ## Tasks Completed
 
 - Reviewed the COIT20261 Unit Profile and assessment requirements.
@@ -30,13 +29,12 @@ The objective of this week's tutorial was to become familiar with the unit requi
 ---
 
 # Section B – GNS3 Introduction
-
 ## Project Information
 
 **Project Name**
 
 ```
-GNS3-Intro-YOUR_STUDENT_ID
+GNS3-Intro-12320934
 ```
 
 ### Activities Completed
@@ -62,7 +60,7 @@ GNS3-Intro-YOUR_STUDENT_ID
 |------|-------|
 | Host | Linux Host |
 | Interface | eth0 |
-| IP Address | 10.10.1.1 |
+| IP Address | 10.10.4.0 |
 | Netmask | 255.255.255.0 |
 
 Example configuration used:
@@ -82,7 +80,7 @@ iface eth0 inet static
 ### Show IP Address
 
 ```bash
-ip address show
+ip a
 ```
 
 ---
@@ -123,10 +121,10 @@ images/week01-ipaddress.png
 
 | Test | Result |
 |------|--------|
-| Linux Host Started Successfully | ✅ Pass |
-| Static IP Configured | ✅ Pass |
-| IP Address Verified | ✅ Pass |
-| GNS3 Project Saved Successfully | ✅ Pass |
+| Linux Host Started Successfully |  Pass |
+| Static IP Configured |  Pass |
+| IP Address Verified |  Pass |
+| GNS3 Project Saved Successfully |  Pass |
 
 ---
 
