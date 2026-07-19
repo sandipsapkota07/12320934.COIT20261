@@ -6,15 +6,9 @@
 **Week:** 01  
 **Date:** 19 July 2026
 
----
-
-# Week 01 Tutorial Portfolio
-
 ## Objective
 
 The objective of this week's tutorial was to become familiar with the unit requirements, set up the required software, create the GitHub repository, and gain introductory experience with GNS3 by creating a simple network project and configuring a Linux host with a static IP address.
-
----
 
 # Section A
 ## Tasks Completed
@@ -26,7 +20,6 @@ The objective of this week's tutorial was to become familiar with the unit requi
 - Created a private GitHub repository for the unit.
 - Created the Week 01 portfolio file using Markdown.
 
----
 
 # Section B – GNS3 Introduction
 ## Project Information
@@ -52,8 +45,6 @@ GNS3-Intro-12320934
 - Opened the Web Console.
 - Verified the configured IP address using Linux commands.
 
----
-
 # Network Configuration
 
 | Item | Value |
@@ -72,18 +63,12 @@ iface eth0 inet static
     netmask 255.255.255.0
     up sysctl net.ipv4.ip_forward=0
 ```
-
----
-
 # Commands Used
-
 ### Show IP Address
 
 ```bash
 ip a
 ```
-
----
 
 # Evidence
 
@@ -96,9 +81,6 @@ Example:
 ```
 images/week01-network.png
 ```
-
----
-
 ## Screenshot 2 – Linux Console Showing IP Address
 
 > *(Insert screenshot here later)*
@@ -109,13 +91,9 @@ Example:
 images/week01-ipaddress.png
 ```
 
----
-
 ## Screenshot 3 – GNS3 Project Overview (Optional)
 
 > *(Insert screenshot here later)*
-
----
 
 # Testing Results
 
@@ -126,15 +104,11 @@ images/week01-ipaddress.png
 | IP Address Verified |  Pass |
 | GNS3 Project Saved Successfully |  Pass |
 
----
-
 # Challenges
 
 - Initially understanding how to edit the `/etc/network/interfaces` configuration file.
 - Learning the difference between dynamic (DHCP) and static IP addressing.
 - Becoming familiar with the GNS3 interface and Linux terminal.
-
----
 
 # Reflection
 
@@ -143,8 +117,6 @@ This week's practical introduced me to the basic features of GNS3 and Linux netw
 Although the activities were relatively simple, they helped me understand the importance of proper network configuration and documentation. I became more confident using the Linux terminal and navigating the GNS3 environment.
 
 For future weeks, I plan to improve my knowledge of Linux networking commands, GitHub documentation, and GNS3 network simulations.
-
----
 
 # Learning Outcomes
 
@@ -156,5 +128,3 @@ After completing Week 01, I can:
 - Use Linux commands to verify network configuration.
 - Document practical work using Markdown.
 - Organise portfolio evidence in GitHub.
-
----
