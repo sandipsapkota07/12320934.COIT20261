@@ -1,2 +1,2 @@
 
-- ![Computer Info](Images/week2-1.png)
+- ![Computer Info](Images/week2_1.png)
