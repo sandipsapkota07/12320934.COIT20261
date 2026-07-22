@@ -72,9 +72,9 @@ ip a
 
 # Evidence
 
-- ![Computer Info](images/nsa-1.png)
-- ![Computer Info](images/nsa-2.png)
-- ![Computer Info](images/nsa-3.png)
+- ![Computer Info](Images/nsa-1.png)
+- ![Computer Info](Images/nsa-2.png)
+- ![Computer Info](Images/nsa-3.png)
 
 
 
