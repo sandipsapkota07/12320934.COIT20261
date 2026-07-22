@@ -75,18 +75,18 @@ ip a
 ## Screenshot 1 – GNS3 Network Topology
 
 ```
-images/week01-network.png
+- ![Computer Info](images/nsa-1.png)
 ```
 ## Screenshot 2 – Linux Console Showing IP Address
 
 
 ```
-images/week01-ipaddress.png
+- ![Computer Info](images/nsa-2.png)
 ```
 
 ## Screenshot 3 – GNS3 Project Overview (Optional)
 ```
-images/week01-ipaddress.png
+- ![Computer Info](images/nsa-3.png)
 ```
 
 
