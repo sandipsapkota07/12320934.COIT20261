@@ -72,22 +72,10 @@ ip a
 
 # Evidence
 
-## Screenshot 1 – GNS3 Network Topology
-
-```
 - ![Computer Info](images/nsa-1.png)
-```
-## Screenshot 2 – Linux Console Showing IP Address
-
-
-```
 - ![Computer Info](images/nsa-2.png)
-```
-
-## Screenshot 3 – GNS3 Project Overview (Optional)
-```
 - ![Computer Info](images/nsa-3.png)
-```
+
 
 
 # Testing Results
