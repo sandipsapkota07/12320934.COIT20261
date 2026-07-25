@@ -54,15 +54,6 @@ GNS3-Intro-12320934
 | IP Address | 10.10.4.0 |
 | Netmask | 255.255.255.0 |
 
-Example configuration used:
-
-```text
-auto eth0
-iface eth0 inet static
-    address 10.10.1.1
-    netmask 255.255.255.0
-    up sysctl net.ipv4.ip_forward=0
-```
 # Commands Used
 ### Show IP Address
 
@@ -76,16 +67,6 @@ ip a
 - ![Computer Info](Images/nsa-2.png)
 - ![Computer Info](Images/nsa-3.png)
 
-
-
-# Testing Results
-
-| Test | Result |
-|------|--------|
-| Linux Host Started Successfully |  Pass |
-| Static IP Configured |  Pass |
-| IP Address Verified |  Pass |
-| GNS3 Project Saved Successfully |  Pass |
 
 # Challenges
 
