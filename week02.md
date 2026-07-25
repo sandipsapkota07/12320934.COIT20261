@@ -58,6 +58,7 @@ ip address show
 ![Lab Screenshot](Images/host_1.png)
 ![Lab Screenshot](Images/host_3.png)
 ![Lab Screenshot](Images/host_4.png)
+![Lab Screenshot](Images/ping_1.png)
 ![Lab Screenshot](Images/ping_2.png)
 ![Lab Screenshot](Images/ping_3.png)
 ![Lab Screenshot](Images/ping_4.png)
