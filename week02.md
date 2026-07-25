@@ -4,13 +4,11 @@
 **Student ID:** 12320934  
 **Week:** 02
 
----
 
 # Objective
 
 The aim of this week's tutorial was to learn different methods of configuring static IP addresses on Linux hosts using GNS3 and to test network connectivity using the ping command.
 
----
 
 # Task 1 – Setting Static IP Addresses
 
@@ -24,8 +22,6 @@ The aim of this week's tutorial was to learn different methods of configuring st
   2. Editing `/etc/network/interfaces`
   3. Using the `ip address add` command
 
----
-
 ## IP Address Configuration
 
 | Host | Configuration Method | IP Address |
@@ -34,8 +30,6 @@ The aim of this week's tutorial was to learn different methods of configuring st
 | Host2 | GNS3 Configure | 10.1.1.2/24 |
 | Host3 | /etc/network/interfaces | 10.1.1.3/24 |
 | Host4 | ip address add | 10.1.1.4/24 |
-
----
 
 ## Commands Used
 
@@ -58,8 +52,6 @@ ip address add 10.1.1.4/24 dev eth0
 ```bash
 ip address show
 ```
-
----
 
 # Evidence
 - ![Computer Info](Images/week2_1.png)
@@ -103,18 +95,6 @@ ping -c 3 10.1.1.2
 | Host1 → Host2 | Successful |
 | Packet Loss | 0% |
 | RTT | Approximately 0.19 ms |
-
----
-
-## Ping Screenshot
-
-![Ping](images/week02-ping-simple.png)
-
----
-
-## Ping with Options
-
-![Ping Options](images/week02-ping-options.png)
 
 ---
 
