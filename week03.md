@@ -72,47 +72,50 @@ nc 10.1.0.1 12345
 # Evidence
 
 ### Screenshot 1
+![Lab Screenshot](Images/week03_1.png)
 
 
 ---
 
 ### Screenshot 2
-
+![Lab Screenshot](Images/week03_2.png)
 
 ---
 
 ### Screenshot 3
-
+![Lab Screenshot](Images/week03_3.png)
 
 ---
 
 ### Screenshot 4
-
+![Lab Screenshot](Images/week03_4.png)
 
 ---
 
 ### Screenshot 5
-
+![Lab Screenshot](Images/week03_5.png)
 
 ---
 
 ### Screenshot 6
-
+![Lab Screenshot](Images/week03_6.png)
 
 ---
 
 ### Screenshot 7
-
+![Lab Screenshot](Images/week03_7.png)
 
 ---
 
 ### Screenshot 8
-
+![Lab Screenshot](Images/week03_8.png)
 
 ---
 
 ### Screenshot 9 
 
+![Lab Screenshot](Images/week03_9.png)
+    
 ---
 
 # Testing Results
