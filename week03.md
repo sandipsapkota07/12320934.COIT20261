@@ -72,47 +72,46 @@ nc 10.1.0.1 12345
 # Evidence
 
 ### Screenshot 1
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 2
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 3
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 4
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 5
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 6
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 7
-*Add screenshot here.*
+
 
 ---
 
 ### Screenshot 8
-*Add screenshot here.*
+
 
 ---
 
-### Screenshot 9 (Optional)
-*Add screenshot here if required.*
+### Screenshot 9 
 
 ---
 
