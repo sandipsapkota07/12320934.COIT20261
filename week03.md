@@ -117,6 +117,11 @@ nc 10.1.0.1 12345
 ![Lab Screenshot](Images/week03_9.png)
     
 ---
+## Packet Capture File
+
+The packet capture file generated during this tutorial is available below.
+
+- [12320934-ping-netcat.pcap](12320934-ping-netcat.pcap)
 
 # Testing Results
 
