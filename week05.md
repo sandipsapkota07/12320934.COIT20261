@@ -207,7 +207,7 @@ This demonstrated the ability of dynamic routing to adapt to changes in the netw
 
 ### Screenshot 3 – IP Forwarding Status
 
-![Lab Screenshot](Images/week5_ipforward.png)
+![Lab Screenshot](Images/week5_Ipforward.png)
 
 ### Screenshot 4 – Ping Connection
 ![Lab Screenshot](Images/week5_ping.png)
