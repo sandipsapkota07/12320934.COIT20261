@@ -282,6 +282,7 @@ After completing this week's tutorial, I can:
 The OSPF GNS3 project used for this tutorial is available below:
 
 [OSPF-Basics-Template.gns3project](weekly_project_links/OSPF-Basics-Template.gns3project)
+[View-Route-Template.gns3project](weekly_project_links/View-Routes-12320934.gns3project)
 
 # Reflection
 
