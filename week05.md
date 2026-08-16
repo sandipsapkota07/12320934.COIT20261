@@ -200,55 +200,42 @@ This demonstrated the ability of dynamic routing to adapt to changes in the netw
 
 ### Screenshot 1 – View-Routes Network
 
-*Insert Week 05 Task 1 network screenshot here.*
+![Lab Screenshot](Images/week5_viewroute.png)
 
 ### Screenshot 2 – IP Address Configuration
-
-*Insert IP address configuration screenshot here.*
+![Lab Screenshot](Images/week5_ipconfiguration.png)
 
 ### Screenshot 3 – IP Forwarding Status
 
-*Insert IP forwarding status screenshot here.*
+![Lab Screenshot](Images/week5_ipforward.png)
 
-### Screenshot 4 – Routing Tables
-
-*Insert routing table screenshot here.*
+### Screenshot 4 – Ping Connection
+![Lab Screenshot](Images/week5_ping.png)
 
 ### Screenshot 5 – Successful Ping Between Subnets
-
-*Insert successful ping screenshot here.*
+![Lab Screenshot](Images/week5_ipforwardping.png)
 
 ---
 
 ## Task 2 – OSPF Dynamic Routing
 
 ### Screenshot 6 – OSPF Network
-
-*Insert OSPF network screenshot here.*
+![Lab Screenshot](Images/week5_ospfnetwork.png)
 
 ### Screenshot 7 – OSPF Neighbour Information
-
-*Insert `show ip ospf neighbor` screenshot here.*
+![Lab Screenshot](Images/week5_ospfneighbour.png)
 
 ### Screenshot 8 – OSPF Routing Information
+![Lab Screenshot](Images/week5_ospfroute.png)
 
-*Insert `show ip ospf route` screenshot here.*
-
-### Screenshot 9 – Router Routing Table
-
-*Insert `show ip route` screenshot here.*
-
-### Screenshot 10 – Traceroute Before Link Failure
-
-*Insert first traceroute screenshot here.*
+### Screenshot 10 – Traceroute Before Link Failure and Routing Table
+![Lab Screenshot](Images/week5_trace_before.png)
 
 ### Screenshot 11 – Network Link Failure
-
-*Insert screenshot showing the NETem node/link being stopped here.*
+![Lab Screenshot](Images/week5_networkfailure.png)
 
 ### Screenshot 12 – Traceroute After Link Failure
-
-*Insert second traceroute screenshot here.*
+![Lab Screenshot](Images/week5_traceafter_fail.png)
 
 ---
 
