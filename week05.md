@@ -277,6 +277,11 @@ After completing this week's tutorial, I can:
 - Understand the difference between static routing and dynamic routing.
 
 ---
+## GNS3 Project File
+
+The OSPF GNS3 project used for this tutorial is available below:
+
+[OSPF-Basics-Template.gns3project](weekly_project_links/OSPF-Basics-Template.gns3project)
 
 # Reflection
 
