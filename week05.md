@@ -7,9 +7,6 @@
 **Week:** 05
 
 ---
-
-# Week 05 Tutorial
-
 ## Objective
 
 The objective of this week's tutorial was to understand routing tables, IP forwarding, communication between different subnets, and dynamic routing using OSPF. The practical activities were completed using GNS3 and Linux-based networking devices.
