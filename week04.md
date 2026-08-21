@@ -101,5 +101,9 @@ In Task 2, I learned how to use command-line tools such as `wget` and `curl` to 
 Overall, this tutorial improved my practical understanding of http clients, web servers, routing between subnets and packet capture. i also learned that wget and curl can be useful tools for testing and troubleshooting web services.
 
 ---
-# Files link
+## GNS3 Project File
 
+The  GNS3 project used for this tutorial is available below:
+
+- [HTTPClient-CLI-12320934.gns3project](weekly_project_links/HTTPClient-CLI-12320934.gns3project)
+- [HTTPClient-GUI-12320934.gns3project](weekly_project_links/HTTPClient-GUI-12320934.gns3project)
