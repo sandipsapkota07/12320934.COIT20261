@@ -98,5 +98,6 @@ This week's tutorial helped me understand how HTTP communication works between a
 
 In Task 2, I learned how to use command-line tools such as `wget` and `curl` to access the web server without using a graphical browser. `wget` was useful for downloading the webpage, while `curl` allowed me to view the server response directly in the terminal.
 
-Overall, this tutorial improved my practical understanding of HTTP clients, web servers, routing between subnets and packet capture. I also learned that `wget` and `curl` can be useful tools for testing and troubleshooting web services.
+overall, this tutorial improved my practical understanding of http clients, web servers, routing between subnets and packet capture. i also learned that wget and curl can be useful tools for testing and troubleshooting web services.
+
 ---
