@@ -86,7 +86,7 @@ After completing this week's tutorial, I can:
 ![Lab Screenshot](Images/week4_5.png)
 ![Lab Screenshot](Images/week4_6.png)
 ![Lab Screenshot](Images/week4_7.png)
-![Lab Screenshot](Images/week4_8.png)
+![Lab Screenshot](Images/week4_8_.png)
 ![Lab Screenshot](Images/week4_9.png)
 ![Lab Screenshot](Images/week4_10.png)
 
